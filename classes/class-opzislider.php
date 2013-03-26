@@ -116,6 +116,7 @@ class OpziSlider
                 'menu_position'       => 20,
                 'supports'            => array( 'title', 'editor', 'thumbnail', 'custom-fields' ),
                 'taxonomies'          => array( '' ),
+                'show_in_nav_menus'   => false,
             )
         );
     }
@@ -139,6 +140,7 @@ class OpziSlider
                 'show_ui'           => true, 
                 'hiearchical'       => true, 
                 'show_admin_column' => true, 
+                'show_in_nav_menus' => false,
             )
         ); 
     }
