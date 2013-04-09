@@ -2,9 +2,9 @@
 /*
  * Plugin Name: OpziSlider
  * Version: 0.1
- * Plugin URI: http://opzimarketing.net/
+ * Plugin URI: http://opzi.net/oss/opzislider
  * Author: Jeremy Madea
- * Author URI: http://madea.net/vladimir
+ * Author URI: http://madea.net/
  * Description: A slider plugin based on flexslider. 
  */  
 
